@@ -1,0 +1,22 @@
+.query textarea {
+  width: 100%;
+  padding: 6px 10px;
+  margin-bottom: 20px;
+}
+.query textarea:focus {
+  outline: none;
+}
+.btn {
+  box-shadow: none !important;
+  outline: none;
+}
+.bottom-btn {
+  display: flex;
+  justify-content: space-between;
+  margin: 50px auto 0 auto;
+  padding: 0;
+}
+
+.popup .mt-4 {
+  font-weight: 600;
+}

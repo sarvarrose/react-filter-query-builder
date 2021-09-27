@@ -1,0 +1,20 @@
+.form-select:focus,
+.form-control:focus {
+  box-shadow: none;
+}
+
+.form-label {
+  font-size: 14px;
+  margin-bottom: 2px;
+}
+
+.form-control {
+  padding: 4px 10px;
+  height: auto;
+  color: #333;
+  font-size: 16px;
+}
+.myFormGroup {
+  align-items: center;
+  margin-bottom: 10px;
+}

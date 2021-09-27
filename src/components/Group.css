@@ -1,0 +1,14 @@
+.btn-toggle,
+.condition-toggle {
+  display: flex;
+  justify-content: space-between !important;
+  padding-right: 18px;
+}
+
+.group-container {
+  background: aliceblue;
+  margin: 10px 0px;
+  border: 1px solid darkgray;
+  border-radius: 5px;
+  padding: 5px;
+}
