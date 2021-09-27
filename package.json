@@ -1,6 +1,6 @@
 {
   "name": "react-filter-query-builder",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "React Filter Query Builder",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
